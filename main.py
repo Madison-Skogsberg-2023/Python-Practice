@@ -18,6 +18,8 @@ def topFiveMovies():
     #print 5th movie
     print("5. The Numb3rs Series")
 
+topFiveMovies()
+
 #define function
 def favoriteFoods():
     #print title
@@ -33,10 +35,12 @@ def favoriteFoods():
     print("3. Rice")
 
     #print 4th food
-    print ("4. Pasta, Noodles, Lo Mein, you get the idea")
+    print("4. Pasta, Noodles, Lo Mein, you get the idea")
 
     #print 5th food
     print("5. Doughnuts")
+
+favoriteFoods()
 
 #define function
 def morningRoutine():
@@ -58,6 +62,8 @@ def morningRoutine():
     #print 5th task
     print("5. Wait 20 minutes for the bus that was supposed to show up 20 minutes ago but it's always late even though you rushed out of the door this morning to catch the bus you think you'd've learned to lower your expectations by now")
 
+morningRoutine()
+
 #define function
 def dreamJob():
     #print title
@@ -72,6 +78,8 @@ def dreamJob():
     #print job 3
     print("3. Mathematics Professor")
 
+dreamJob()
+
 #define function
 def bohemianRhapsody():
     #print title
@@ -80,10 +88,12 @@ def bohemianRhapsody():
     #print song lyrics
     print("Is this the real life/ Is this just fantasy/ Caught in a landslide/ No escape from reality Etc...")
 
+bohemianRhapsody()
+
 #define function
 def myCat():
     #print title
-    print ("Why I love my cat even though she's a jerk:")
+    print("Why I love my cat even though she's a jerk:")
 
     #print reason 1
     print("1. Fluffy")
@@ -98,4 +108,20 @@ def myCat():
     print("4. The little 'brrp' noise she makes when she wakes up")
 
     #print reason 5
-    print ("5. She looks like a loaf of bread when she sits down")
+    print("5. She looks like a loaf of bread when she sits down")
+
+myCat()
+
+#define function that outputs your name
+#followed by "is my name"
+def whatMyNameIs(name): 
+
+    #output string
+    print(name + " is my name.")
+
+#run function
+whatMyNameIs("Madison")
+whatMyNameIs("A Fool")
+whatMyNameIs("A Nuisance")
+whatMyNameIs("A Bother")
+whatMyNameIs("An Idiot of the Highest Accord")
