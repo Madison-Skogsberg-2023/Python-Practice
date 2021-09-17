@@ -9,4 +9,4 @@ def madLib(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w):
     print("The Jedi " + t + "use The Force for the " + u + "side and the Sith " + v + "it for the " + w + "side.")
 
 #run function
-madLib("live-action Netflix remake of a ", "story", "clueless farmers", "big frickin metal ball", "lazy", "tired ", "old men", "a depressing", "repetitive", "dangerous sticks", "uber", "Robots", "essentially fan-service", "vague and poorly-written ", "Force ", "help", "irrelevent", "reuniting with their illegitamite ", "children", "sometimes ", "uwu ", "use ", "meanie ")
+madLib("silly", "chicken", "purple", "McDonald's", "interesting", "tired", "school buses", "tasty", "intense", "tricycles", "uber", "Offices", "chairs",)
