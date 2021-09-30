@@ -1,17 +1,24 @@
-#define function
-def cat():
-    print("Cat")
-    return "Cat"
+def function():
+    count = 1
+    while count < 10:
+        print(count)
+        count = count + 1
 
-#define function
-def dog():
-    return "dog"
+function()
 
-#print return
-print(cat() + dog())
+def count():
+    count = 1
+    while count < 101:
+        print(count)
+        count = count + 1
 
-#define function
-def planets():
-    return 8
+count()
 
-print(planets())
+def byFive():
+    count = 5
+    while count <= 100:
+        print(count)
+        count = count + 5
+
+byFive()
+
